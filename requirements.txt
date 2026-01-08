@@ -1,0 +1,4 @@
+google-adk
+python-dotenv
+fireworks-ai>=1.0.0a
+fastapi[standard]
